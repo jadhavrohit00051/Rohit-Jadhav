@@ -5,7 +5,7 @@ A passionate engineering student focused on **AI & Data Science**, **Java**, and
 - 🔭 Currently building: Intelligent data extraction platforms & civic-tech systems
 - 🌱 Deepening knowledge in: System Design, Machine Learning fundamentals, and scalable APIs
 - 💬 Ask me about: Java, Python, React, Spring Boot, Git & GitHub
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/) | [Email](mailto:your-email@example.com)
+- 📫 Connect with me: [LinkedIn] https://www.linkedin.com/in/rohit-jadhav-5a6aba371?utm_source=share_via&utm_content=profile&utm_medium=member_android| [Email](mailto:jadhavrohit00051@Gmail.com)
 
 ---
 
